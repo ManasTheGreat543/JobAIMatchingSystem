@@ -1,0 +1,10 @@
+venv/
+.venv/
+Frontend/.venv/
+Backend/agent-env/
+
+__pycache__/
+*.pyc
+
+.env
+.vscode/
